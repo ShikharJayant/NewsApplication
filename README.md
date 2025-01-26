@@ -1,7 +1,7 @@
 
  >The News Application follows Model-View-ViewModel architecture.
 
-> Rx single class is used in 2 api's(us and in) to fetch top headlines from United States and India, later the fetched data is displayed via marquee effect on the home screen.
+> Rx single class is used for 2 api's(us and in) to fetch top headlines from United States and India, later the fetched data is displayed via marquee effect on the home screen.
 
 > Articles list uses LazyColumn for efficient rendering.
 
